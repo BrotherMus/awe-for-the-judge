@@ -5,13 +5,13 @@ import os
 
 TEXT = (
     "You fall asleep on the night ferry, under your mother's coat.\n"
-    "The engine hums. A long hum. A rope creaks.\n"
-    "Below you, a mile of dark water,\n"
-    "and on the sea floor, snow:\n"
-    "small shells drifting down,\n"
-    "as they have for a million years.\n"
-    "It falls all night.\n"
-    "No one has to watch it."
+    "The engine hums. A long hum. A bell.\n"
+    "Below, a mile of dark water,\n"
+    "and on the sea floor, a slow snow\n"
+    "of small shells, falling as they have\n"
+    "for a million years.\n"
+    "The white cliffs were made of it.\n"
+    "No one has to watch."
 )
 
 
