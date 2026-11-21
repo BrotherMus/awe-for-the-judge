@@ -4,13 +4,14 @@
 import os
 
 TEXT = (
-    "You fall asleep on the night ferry, on your mother's arm.\n"
-    "The engine hums. A long hum. A bell.\n"
-    "Far below, small shells drift down, slow as snow.\n"
-    "The chalk cliffs ahead were made so,\n"
-    "a little each night, for eighty million years.\n"
-    "No one hurried them.\n"
-    "Your mother does not move."
+    "Every word you know was once said low,\n"
+    "in the dark, to a child falling asleep.\n"
+    "A hand on a small back.\n"
+    "The same word again, slower.\n"
+    "The fire ticking down.\n"
+    "Ten thousand years of nights like that,\n"
+    "and all of it came to you.\n"
+    "It is still warm."
 )
 
 
